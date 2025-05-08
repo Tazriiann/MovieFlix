@@ -1,0 +1,676 @@
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\appsettings.Development.json
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\appsettings.json
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.staticwebassets.runtime.json
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.staticwebassets.endpoints.json
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.exe
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.deps.json
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.runtimeconfig.json
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.pdb
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Azure.Core.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Azure.Identity.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Humanizer.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.ClientModel.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.CodeDom.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.csproj.AssemblyReference.cache
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.AssemblyInfoInputs.cache
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.AssemblyInfo.cs
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.csproj.CoreCompileInputs.cache
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.MvcApplicationPartsAssemblyInfo.cache
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.RazorAssemblyInfo.cache
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.RazorAssemblyInfo.cs
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\scopedcss\bundle\MoviePlatform.styles.css
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\scopedcss\projectbundle\MoviePlatform.bundle.scp.css
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\k9qvnn39ur-61n19gt1b8.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\z2lu3mjfm8-xtxxf3hu2r.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\hypjxlng31-bqjiyaj88i.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\rr67qrh016-c2jlpeoesf.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\0bheeucciw-erw9l3u2r3.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\vqvpeq7k2a-aexeepp0ev.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\yoxslae9rt-d7shbmvgxk.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\q3f89bj90r-ausgxo2sd3.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\kvwhe725e0-k8d9w2qqmf.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\4obqvspldw-cosvhxvwiu.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\9btfs57t7q-ub07r2b239.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\j6sem9b6ab-fvhpjtyr6v.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\k8on58t3jy-b7pk76d08c.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\kes7vdtifj-fsbi9cje9m.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\ixmmv4r02v-rzd6atqjts.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\y4vnxr6lbj-ee0r1s7dh0.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\am9ez93srs-dxx9fxp4il.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\ivxedgpklk-jd9uben2k1.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\84iob0tbb9-khv3u5hwcm.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\8i5ozs9qhk-r4e9w2rdcm.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\l5qkqtuoro-lcd1t2u6c8.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\kquahbthc5-c2oey78nd0.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\i9t022wgik-tdbxkamptv.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\1tiqkzadbo-j5mq2jizvt.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\8ge5ju3hsl-06098lyss8.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\9991hl7lxg-nvvlpmu67g.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\ce0p9b9x2x-s35ty4nyc5.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\fc5f8ko57u-pj5nd1wqec.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\ff49a0ftp9-46ein0sx1k.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\1d3d9io5km-v0zj4ognzu.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\hpq57htg6d-37tfw0ft22.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\degkiqjnr9-hrwsygsryq.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\6hhfrjfc6o-pk9g2wxc8p.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\9mfttar7wr-ft3s53vfgj.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\eadfgf7d7o-6cfz1n2cew.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\u4vhfo62h6-6pdc2jztkx.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\llm47gpj7o-493y06b0oq.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\zr861v2fp4-iovd86k7lj.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\2luv7hwe6w-vr1egmr9el.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\jp6sv5s1dq-kbrnm935zg.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\7x4hc5cmfx-jj8uyg4cgr.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\z1usbxhk16-y7v9cxd14o.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\htnavuz5aa-notf2xhcfb.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\50i7fytg8d-h1s4sie4z3.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\2m3qqst04l-63fj8s7r0e.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\qeftvi1qmu-0j3bgjxly4.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\lxv0a1yv86-47otxtyo56.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\1yaqsmpijf-4v8eqarkd7.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\rztclpiw8l-356vix0kms.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\hll36m869f-83jwlth58m.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\otz3h7r1a8-mrlpezrjn3.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\60l29dn793-lzl9nlhx6b.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\wdiigugpvu-ag7o75518u.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\l7mdqdalu1-x0q3zqp4vz.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\8ujppj3a1p-0i3buxo5is.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\949ym4aj7q-o1o13a6vjx.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\m72dx8ajh0-ttgo8qnofa.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\sx2qn9zv6e-2z0ns9nrw6.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\17d1fj805k-muycvpuwrr.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\6joxyxokwr-87fc7y1x7t.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\iexppwxles-mlv21k5csn.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\icasjj4esv-5ak3hyvyna.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\45gc3nlhdr-5ak3hyvyna.gz
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets.build.json
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets.development.json
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets\msbuild.MoviePlatform.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets\msbuild.MoviePlatform.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets\msbuild.build.MoviePlatform.props
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MoviePlatform.props
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MoviePlatform.props
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePla.015053C2.Up2Date
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\refint\MoviePlatform.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.pdb
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.genruntimeconfig.cache
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\ref\MoviePlatform.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Build.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.Common.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.Configuration.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.Frameworks.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.LibraryModel.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.Packaging.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.ProjectModel.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.Protocol.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.Versioning.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\af\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ar\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\az\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\bg\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\da\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\el\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fa\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\he\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\hr\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\hu\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\hy\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\id\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\is\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ku\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\lv\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\mt\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\nb\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\nl\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ro\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\sk\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\sl\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\sr\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\sv\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\uk\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\vi\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\ao8o7wvj0t-xcys3s1mba.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\appsettings.Development.json
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\appsettings.json
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.staticwebassets.endpoints.json
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.staticwebassets.runtime.json
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.exe
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.deps.json
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.runtimeconfig.json
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\MoviePlatform.pdb
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Azure.Core.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Azure.Identity.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Humanizer.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Build.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.Common.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.Configuration.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.Frameworks.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.LibraryModel.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.Packaging.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.ProjectModel.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.Protocol.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\NuGet.Versioning.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.ClientModel.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.CodeDom.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\af\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ar\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\az\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\bg\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\da\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\el\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fa\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\he\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\hr\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\hu\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\hy\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\id\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\is\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ku\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\lv\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\mt\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\nb\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\nl\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ro\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\sk\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\sl\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\sr\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\sv\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\uk\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\vi\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.csproj.AssemblyReference.cache
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.AssemblyInfoInputs.cache
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.AssemblyInfo.cs
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.csproj.CoreCompileInputs.cache
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.MvcApplicationPartsAssemblyInfo.cache
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.RazorAssemblyInfo.cache
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.RazorAssemblyInfo.cs
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\scopedcss\bundle\MoviePlatform.styles.css
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\scopedcss\projectbundle\MoviePlatform.bundle.scp.css
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\ao8o7wvj0t-xcys3s1mba.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\k9qvnn39ur-61n19gt1b8.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\z2lu3mjfm8-xtxxf3hu2r.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\hypjxlng31-bqjiyaj88i.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\rr67qrh016-c2jlpeoesf.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\0bheeucciw-erw9l3u2r3.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\vqvpeq7k2a-aexeepp0ev.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\yoxslae9rt-d7shbmvgxk.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\q3f89bj90r-ausgxo2sd3.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\kvwhe725e0-k8d9w2qqmf.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\4obqvspldw-cosvhxvwiu.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\9btfs57t7q-ub07r2b239.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\j6sem9b6ab-fvhpjtyr6v.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\k8on58t3jy-b7pk76d08c.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\kes7vdtifj-fsbi9cje9m.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\ixmmv4r02v-rzd6atqjts.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\y4vnxr6lbj-ee0r1s7dh0.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\am9ez93srs-dxx9fxp4il.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\ivxedgpklk-jd9uben2k1.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\84iob0tbb9-khv3u5hwcm.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\8i5ozs9qhk-r4e9w2rdcm.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\l5qkqtuoro-lcd1t2u6c8.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\kquahbthc5-c2oey78nd0.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\i9t022wgik-tdbxkamptv.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\1tiqkzadbo-j5mq2jizvt.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\8ge5ju3hsl-06098lyss8.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\9991hl7lxg-nvvlpmu67g.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\ce0p9b9x2x-s35ty4nyc5.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\fc5f8ko57u-pj5nd1wqec.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\ff49a0ftp9-46ein0sx1k.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\1d3d9io5km-v0zj4ognzu.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\hpq57htg6d-37tfw0ft22.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\degkiqjnr9-hrwsygsryq.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\6hhfrjfc6o-pk9g2wxc8p.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\9mfttar7wr-ft3s53vfgj.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\eadfgf7d7o-6cfz1n2cew.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\u4vhfo62h6-6pdc2jztkx.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\llm47gpj7o-493y06b0oq.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\zr861v2fp4-iovd86k7lj.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\2luv7hwe6w-vr1egmr9el.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\jp6sv5s1dq-kbrnm935zg.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\7x4hc5cmfx-jj8uyg4cgr.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\z1usbxhk16-y7v9cxd14o.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\htnavuz5aa-notf2xhcfb.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\50i7fytg8d-h1s4sie4z3.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\2m3qqst04l-63fj8s7r0e.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\qeftvi1qmu-0j3bgjxly4.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\lxv0a1yv86-47otxtyo56.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\1yaqsmpijf-4v8eqarkd7.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\rztclpiw8l-356vix0kms.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\hll36m869f-83jwlth58m.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\otz3h7r1a8-mrlpezrjn3.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\60l29dn793-lzl9nlhx6b.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\wdiigugpvu-ag7o75518u.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\l7mdqdalu1-x0q3zqp4vz.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\8ujppj3a1p-0i3buxo5is.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\949ym4aj7q-o1o13a6vjx.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\m72dx8ajh0-ttgo8qnofa.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\sx2qn9zv6e-2z0ns9nrw6.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\17d1fj805k-muycvpuwrr.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\6joxyxokwr-87fc7y1x7t.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\iexppwxles-mlv21k5csn.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\icasjj4esv-5ak3hyvyna.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\compressed\45gc3nlhdr-5ak3hyvyna.gz
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets.build.json
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets.development.json
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets\msbuild.MoviePlatform.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets\msbuild.MoviePlatform.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets\msbuild.build.MoviePlatform.props
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MoviePlatform.props
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MoviePlatform.props
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePla.015053C2.Up2Date
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\refint\MoviePlatform.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.pdb
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.genruntimeconfig.cache
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\ref\MoviePlatform.dll

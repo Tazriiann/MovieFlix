@@ -1,0 +1,80 @@
+/* Base styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+    margin-bottom: 60px;
+}
+
+/* Navbar styling */
+.navbar {
+    background-color: #1f1f1f !important;
+    border-bottom: 1px solid #333;
+}
+
+    .navbar .nav-link, .navbar-brand {
+        color: #ffffff !important;
+    }
+
+        .navbar .nav-link:hover {
+            color: #00bcd4 !important;
+        }
+
+/* Main container */
+.container {
+    max-width: 1140px;
+}
+
+/* Movie card styles */
+.movie-card {
+    background-color: #1e1e1e;
+    border: 1px solid #2e2e2e;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s ease;
+}
+
+    .movie-card:hover {
+        transform: scale(1.02);
+    }
+
+    .movie-card h5 {
+        color: #ffffff;
+    }
+
+    .movie-card p {
+        color: #bbbbbb;
+    }
+
+    .movie-card .card-body {
+        padding: 1rem;
+    }
+
+    .movie-card .btn {
+        margin-top: 0.5rem;
+    }
+
+/* Forms */
+form label {
+    color: #dddddd;
+}
+
+.form-control {
+    background-color: #222;
+    color: #fff;
+    border: 1px solid #444;
+}
+
+    .form-control::placeholder {
+        color: #888;
+    }
+
+.btn-primary {
+    background-color: #00bcd4;
+    border: none;
+}
+
+    .btn-primary:hover {
+        background-color: #00acc1;
+    }
