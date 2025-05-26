@@ -674,3 +674,4 @@ E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\D
 E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.pdb
 E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.genruntimeconfig.cache
 E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\ref\MoviePlatform.dll
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\obj\Debug\net9.0\MoviePlatform.sourcelink.json

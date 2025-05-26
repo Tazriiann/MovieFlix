@@ -5,6 +5,8 @@
     public string Description { get; set; } = string.Empty;
     public string Genre { get; set; } = string.Empty;
     public DateTime ReleaseDate { get; set; }
+    public string? VideoPath { get; set; }
+    public string? PosterPath { get; set; }
 
     // Parameterless constructor required by EF
     public Movie() { }

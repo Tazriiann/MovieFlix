@@ -23,7 +23,7 @@ namespace MoviePlatform.Controllers
             return View(await _context.Movies.ToListAsync());
         }
 
-        // GET: Movies/Details/5
+        // GET: Movies/Details/
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -47,23 +47,53 @@ namespace MoviePlatform.Controllers
             return View();
         }
 
-        // POST: Movies/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Description,Genre,ReleaseDate")] Movie movie)
+        public async Task<IActionResult> Create(Movie movie, IFormFile VideoFile, IFormFile PosterFile)
         {
             if (ModelState.IsValid)
             {
+                // Upload video
+                if (VideoFile != null && VideoFile.Length > 0)
+                {
+                    var videoFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/videos");
+                    Directory.CreateDirectory(videoFolder);
+
+                    var videoName = Guid.NewGuid() + Path.GetExtension(VideoFile.FileName);
+                    var videoPath = Path.Combine(videoFolder, videoName);
+
+                    using var stream = new FileStream(videoPath, FileMode.Create);
+                    await VideoFile.CopyToAsync(stream);
+
+                    movie.VideoPath = "/videos/" + videoName;
+                }
+
+                // Upload poster
+                if (PosterFile != null && PosterFile.Length > 0)
+                {
+                    var posterFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/posters");
+                    Directory.CreateDirectory(posterFolder);
+
+                    var posterName = Guid.NewGuid() + Path.GetExtension(PosterFile.FileName);
+                    var posterPath = Path.Combine(posterFolder, posterName);
+
+                    using var stream = new FileStream(posterPath, FileMode.Create);
+                    await PosterFile.CopyToAsync(stream);
+
+                    movie.PosterPath = "/posters/" + posterName;
+                }
+
                 _context.Add(movie);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+
             return View(movie);
         }
 
-        // GET: Movies/Edit/5
+
+
+        // GET: Movies/Edit/
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -80,45 +110,91 @@ namespace MoviePlatform.Controllers
         }
 
         // POST: Movies/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Description,Genre,ReleaseDate")] Movie movie)
+        public async Task<IActionResult> Edit(int id, Movie movie, IFormFile VideoFile, IFormFile PosterFile)
         {
-            if (id != movie.Id)
-            {
-                return NotFound();
-            }
+            if (id != movie.Id) return NotFound();
 
             if (ModelState.IsValid)
             {
                 try
                 {
+                    var existingMovie = await _context.Movies.AsNoTracking().FirstOrDefaultAsync(m => m.Id == movie.Id);
+                    if (existingMovie == null) return NotFound();
+
+                    // Handle video
+                    if (VideoFile != null && VideoFile.Length > 0)
+                    {
+                        var videoFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/videos");
+                        Directory.CreateDirectory(videoFolder);
+
+                        var videoName = Guid.NewGuid() + Path.GetExtension(VideoFile.FileName);
+                        var videoPath = Path.Combine(videoFolder, videoName);
+
+                        using var stream = new FileStream(videoPath, FileMode.Create);
+                        await VideoFile.CopyToAsync(stream);
+
+                        movie.VideoPath = "/videos/" + videoName;
+                    }
+                    else
+                    {
+                        movie.VideoPath = existingMovie.VideoPath;
+                    }
+
+                    // Handle poster
+                    if (PosterFile != null && PosterFile.Length > 0)
+                    {
+                        var posterFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/posters");
+                        Directory.CreateDirectory(posterFolder);
+
+                        var posterName = Guid.NewGuid() + Path.GetExtension(PosterFile.FileName);
+                        var posterPath = Path.Combine(posterFolder, posterName);
+
+                        using var stream = new FileStream(posterPath, FileMode.Create);
+                        await PosterFile.CopyToAsync(stream);
+
+                        movie.PosterPath = "/posters/" + posterName;
+                    }
+                    else
+                    {
+                        movie.PosterPath = existingMovie.PosterPath;
+                    }
+
                     _context.Update(movie);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!MovieExists(movie.Id))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
+                    if (!_context.Movies.Any(m => m.Id == movie.Id)) return NotFound();
+                    throw;
                 }
+
                 return RedirectToAction(nameof(Index));
             }
+
             return View(movie);
         }
 
-        public IActionResult Download(int id)
+
+
+
+        public async Task<IActionResult> Download(int id)
         {
-            // Optional: Use id if needed later
-            return View();
+            var movie = await _context.Movies.FindAsync(id);
+            if (movie == null || string.IsNullOrEmpty(movie.VideoPath))
+                return NotFound();
+
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", movie.VideoPath.TrimStart('/'));
+            var contentType = "application/octet-stream";
+            var fileName = Path.GetFileName(filePath);
+
+            var fileBytes = await System.IO.File.ReadAllBytesAsync(filePath);
+            return File(fileBytes, contentType, fileName);
         }
+
 
 
 

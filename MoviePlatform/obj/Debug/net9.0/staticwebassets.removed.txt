@@ -1,62 +1,30 @@
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery\dist\jquery.slim.min.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery\dist\jquery.slim.min.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery\dist\jquery.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery\dist\jquery.min.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\css\site.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery-validation\dist\additional-methods.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery\LICENSE.txt
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\favicon.ico
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery-validation\LICENSE.md
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery\dist\jquery.min.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery\dist\jquery.slim.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\js\site.js
-E:\Code C#\C# Project\Test\MoviePlatform\MoviePlatform\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\posters\1d3fa86c-792d-4e51-9e14-b7ee59fd6070.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\posters\35edd7e7-3e7d-43b3-a35d-e6a00dd5a109.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\posters\3e7655be-bcad-4d7d-96ac-f24a0d15919d.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\posters\4d4c9242-e545-4a7f-8894-01f52b12e0df.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\posters\503633f6-2621-4ff1-aaa8-bef503c1c78d.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\posters\64531780-8565-4521-9556-31b15e2b6043.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\posters\856d9e37-eee4-434f-8136-092211f889b0.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\posters\88fcaeb6-ecce-454f-a1b4-3f9f8db688ae.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\posters\8f1e96e2-bd5e-4289-b8f0-ada2491efbac.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\posters\b76bc8d3-225b-493e-8269-a06e6f8e64a4.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\posters\c81a0d06-86d3-4d3f-b006-05579c3f7d26.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\posters\ca0b9241-c434-426e-9eb6-0704427d2a8b.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\posters\fd2db309-9ac8-4cd0-a1b4-6999a8bfd1e6.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\1066a57c-79f6-4023-b023-55307fb0e307.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\2cb8d8ae-b4c8-481e-8169-46b77310e7ee.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\4f7249ee-1e4d-4937-8fbc-456fcff0fe8d.docx
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\5341dbc3-888f-4836-88b4-9f5edb22863a.docx
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\6cb1e659-0e4c-4e8b-866b-49db5cbbe6de.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\7b3cee02-1810-456b-9481-debe2a28570f.docx
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\801faaaa-ee46-40cd-97f2-638b99b236c0.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\8f8595ee-dd54-4231-93b9-6b964cd4293b.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\abffed4f-2130-4ec7-bd67-26fe2e28ca7e.docx
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\b63ce831-955f-405c-888b-90be02f6b508.mp3
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\c18c2af9-758b-49ed-b165-c48ee19dee10.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\d7a05474-6070-452d-8589-1d56a95c0659.pptx
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\db94eade-c147-418a-9afa-c12ed72ca1d6.mp3
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\dc21c767-209d-4342-adc7-4ad5a31b1119.mp4
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\ebff7a65-164d-4242-ad16-fa10fde1e371.mp3
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\eebfd39a-c590-4beb-87e3-f7480a2fdb4c.jpg
+E:\Code C#\C# Project\ASP.NET Core MVC Project\MoviePlatform\MoviePlatform\wwwroot\videos\f00c9bb9-1983-4737-bf29-54f55af41eb0.docx

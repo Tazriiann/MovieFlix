@@ -19,7 +19,7 @@ public class AuthController : Controller
         if (user != null)
         {
             HttpContext.Session.SetString("Username", user.Username);
-            HttpContext.Session.SetString("Role", user.Role); // Make sure Role is also set in session.
+            HttpContext.Session.SetString("Role", user.Role); 
             return RedirectToAction("Index", "Movies");
         }
 

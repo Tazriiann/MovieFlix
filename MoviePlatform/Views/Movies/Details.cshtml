@@ -8,26 +8,33 @@
 
 <style>
     body {
-    background-color: #121212;
-    color: #ffffff;
+        background-color: #121212;
+        color: #ffffff;
     }
 
     .card.movie-card {
-    background-color: #1f1f1f;
-    border-radius: 1rem;
+        background-color: #1f1f1f;
+        border-radius: 1rem;
     }
 
     .movie-section h5 {
-    color: #aaaaaa;
+        color: #aaaaaa;
     }
 
     .movie-section p {
-    font-size: 1.15rem;
+        font-size: 1.15rem;
     }
 
     a.btn-outline-light:hover {
-    background-color: #ffffff;
-    color: #000000;
+        background-color: #ffffff;
+        color: #000000;
+    }
+
+    .poster-img {
+        width: 300px; 
+        height: 500px; 
+        object-fit: cover; 
+        border-radius: 1rem; 
     }
 </style>
 
@@ -36,6 +43,14 @@
         <div class="card-body">
             <h1 class="display-5 fw-bold mb-4">@Model.Title</h1>
             <hr class="border-secondary" />
+
+            <!-- Movie Poster -->
+            @if (!string.IsNullOrEmpty(Model.PosterPath))
+            {
+                <div class="mb-4">
+                    <img src="@Model.PosterPath" alt="Poster" class="poster-img" />
+                </div>
+            }
 
             <div class="movie-section mb-4">
                 <h5>Genre</h5>
@@ -62,8 +77,6 @@
                 {
                     <a class="btn btn-outline-warning" asp-controller="Movies" asp-action="Download" asp-route-id="@Model.Id">Download</a>
                 }
-
-
             </div>
         </div>
     </div>
