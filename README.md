@@ -13,4 +13,5 @@ MovieFlix is a web application that allows users to browse, view, and manage mov
 - Bootstrap
 - SQL Server 
 - C#
+- Javascript
 
