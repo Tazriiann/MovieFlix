@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\",
+  "WorkspaceRootPath": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\views\\movies\\download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\views\\movies\\download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\views\\movies\\download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\views\\movies\\download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieplatform\\movieplatform\\migrations\\20250507181724_seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|e:\\code c#\\c# project\\asp.net core mvc project\\movieflix\\movieplatform\\migrations\\20250507181724_seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{053940A9-8C32-4BD2-A4AC-377644E219FC}|MoviePlatform\\MoviePlatform.csproj|solutionrelative:movieplatform\\migrations\\20250507181724_seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,15 +66,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Views\\Movies\\Create.cshtml",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Views\\Movies\\Create.cshtml",
               "RelativeDocumentMoniker": "MoviePlatform\\Views\\Movies\\Create.cshtml",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Views\\Movies\\Create.cshtml",
               "RelativeToolTip": "MoviePlatform\\Views\\Movies\\Create.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -82,11 +82,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MoviePlatform\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MoviePlatform\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -94,11 +94,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MoviesController.cs",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Controllers\\MoviesController.cs",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "MoviePlatform\\Controllers\\MoviesController.cs",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Controllers\\MoviesController.cs",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "MoviePlatform\\Controllers\\MoviesController.cs",
               "ViewState": "AgIAAGMAAAAAAAAAAAAgwIMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,35 +106,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Program.cs",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Program.cs",
               "RelativeDocumentMoniker": "MoviePlatform\\Program.cs",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Program.cs",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Program.cs",
               "RelativeToolTip": "MoviePlatform\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T17:33:08.787Z"
+              "WhenOpened": "2025-05-07T17:33:08.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\appsettings.json",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\appsettings.json",
               "RelativeDocumentMoniker": "MoviePlatform\\appsettings.json",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\appsettings.json",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\appsettings.json",
               "RelativeToolTip": "MoviePlatform\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-07T17:25:31.475Z"
+              "WhenOpened": "2025-05-07T17:25:31.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "User.cs",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Models\\User.cs",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Models\\User.cs",
               "RelativeDocumentMoniker": "MoviePlatform\\Models\\User.cs",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Models\\User.cs",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Models\\User.cs",
               "RelativeToolTip": "MoviePlatform\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,11 +144,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MoviePlatform\\Data\\AppDbContext.cs",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Data\\AppDbContext.cs",
               "RelativeToolTip": "MoviePlatform\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,23 +156,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "MoviePlatform\\Controllers\\AuthController.cs",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Controllers\\AuthController.cs",
               "RelativeToolTip": "MoviePlatform\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T18:19:41.062Z"
+              "WhenOpened": "2025-05-07T18:19:41.062Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Views\\Auth\\Login.cshtml",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "MoviePlatform\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Views\\Auth\\Login.cshtml",
               "RelativeToolTip": "MoviePlatform\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAUAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -178,11 +181,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Views\\Movies\\Details.cshtml",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Views\\Movies\\Details.cshtml",
               "RelativeDocumentMoniker": "MoviePlatform\\Views\\Movies\\Details.cshtml",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Views\\Movies\\Details.cshtml",
               "RelativeToolTip": "MoviePlatform\\Views\\Movies\\Details.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -191,11 +194,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Download.cshtml",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Views\\Movies\\Download.cshtml",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Views\\Movies\\Download.cshtml",
               "RelativeDocumentMoniker": "MoviePlatform\\Views\\Movies\\Download.cshtml",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Views\\Movies\\Download.cshtml",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Views\\Movies\\Download.cshtml",
               "RelativeToolTip": "MoviePlatform\\Views\\Movies\\Download.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -203,11 +206,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Views\\Movies\\Index.cshtml",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Views\\Movies\\Index.cshtml",
               "RelativeDocumentMoniker": "MoviePlatform\\Views\\Movies\\Index.cshtml",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Views\\Movies\\Index.cshtml",
               "RelativeToolTip": "MoviePlatform\\Views\\Movies\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -215,11 +218,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Movie.cs",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Models\\Movie.cs",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "MoviePlatform\\Models\\Movie.cs",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Models\\Movie.cs",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Models\\Movie.cs",
               "RelativeToolTip": "MoviePlatform\\Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,9 +232,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "20250507181724_SeedUsers.cs",
-              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Migrations\\20250507181724_SeedUsers.cs",
+              "DocumentMoniker": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Migrations\\20250507181724_SeedUsers.cs",
               "RelativeDocumentMoniker": "MoviePlatform\\Migrations\\20250507181724_SeedUsers.cs",
-              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\Migrations\\20250507181724_SeedUsers.cs",
+              "ToolTip": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\Migrations\\20250507181724_SeedUsers.cs",
               "RelativeToolTip": "MoviePlatform\\Migrations\\20250507181724_SeedUsers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ecdQylero2s=",
+  "dgSpecHash": "Rd/1MGoH1ho=",
   "success": true,
-  "projectFilePath": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\MoviePlatform.csproj",
+  "projectFilePath": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\MoviePlatform.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reape\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\reape\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

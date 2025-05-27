@@ -7679,11 +7679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\MoviePlatform.csproj",
+      "projectUniqueName": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\MoviePlatform.csproj",
       "projectName": "MoviePlatform",
-      "projectPath": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\MoviePlatform.csproj",
+      "projectPath": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\MoviePlatform.csproj",
       "packagesPath": "C:\\Users\\reape\\.nuget\\packages\\",
-      "outputPath": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MoviePlatform\\MoviePlatform\\obj\\",
+      "outputPath": "E:\\Code C#\\C# Project\\ASP.NET Core MVC Project\\MovieFlix\\MoviePlatform\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Code C#\\Resources\\NuGetPackages"
