@@ -44,7 +44,8 @@
 
 - **Admin:** Can add, edit, and delete movies
 - **User:** Can view and download movies
-(Username and Passwords for ADMIN and USER can be found inside Data folder in AppDbContext.cs)
+
+*(Username and Passwords for ADMIN and USER can be found inside Data folder in AppDbContext.cs)*
 
 *Roles are managed through session state and can be expanded with full authentication in future versions.*
 
