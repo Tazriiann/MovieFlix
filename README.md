@@ -78,17 +78,26 @@ Open **Package Manager Console** in Visual Studio and run the following commands
 
 
 Install-Package Microsoft.EntityFrameworkCore
+
 Install-Package Microsoft.EntityFrameworkCore.SqlServer
+
 Install-Package Microsoft.EntityFrameworkCore.Tools
+
 Install-Package Microsoft.AspNetCore.Session
+
 Install-Package Microsoft.AspNetCore.Http
+
 Install-Package Microsoft.VisualStudio.Web.CodeGeneration.Design
+
 
 ### Run the following EF Core commands to initialize and update the database
 
 Add-Migration Init
+
 Add-Migration AddPosterPathToMovie
+
 Update-Database
+
 
 ### Configure the Connection String
 
