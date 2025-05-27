@@ -29,6 +29,11 @@
 
 ## 📸 Screenshots
 
+![Image1](Images/Picture1.png)
+![Image2](Images/Picture2.png)
+![Image3](Images/Picture3.png)
+![Image4](Images/Picture4.png)
+
 ---
 
 ## 🖼️ Media & File Handling
@@ -58,6 +63,41 @@
 - 📤 Upload progress indicators
 - 🌍 Localization / multilingual support
 - 🎫 Movie categories, ratings, and cast
+
+---
+
+## 🚀 How to Run the Project
+
+Follow these steps to set up and run the **MovieFlix** project on your local machine using **Visual Studio**:
+
+---
+
+### Install Required NuGet Packages
+
+Open **Package Manager Console** in Visual Studio and run the following commands one by one:
+
+
+Install-Package Microsoft.EntityFrameworkCore
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.Tools
+Install-Package Microsoft.AspNetCore.Session
+Install-Package Microsoft.AspNetCore.Http
+Install-Package Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+### Run the following EF Core commands to initialize and update the database
+
+Add-Migration Init
+Add-Migration AddPosterPathToMovie
+Update-Database
+
+### Configure the Connection String
+
+1.Open SQL Server Management Studio (SSMS).
+
+2.Copy your SQL Server name (e.g. DESKTOP-XXXXXXX\SQLEXPRESS).
+
+3.In your project’s appsettings.json, update the ConnectionStrings:DefaultConnection field.
+
 
 ---
 
